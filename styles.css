@@ -1,14 +1,15 @@
-.header1 {
+ul, .header1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 50px;
-    background-color: blue;
-    color: white;
     text-align: center;
 }
 
+.header1 {
+    font-size: 50px;
+    background-color: blue;
+    color: white;
+}
+
 ul {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 35px;
     background-color: black;
-    text-align: center;
 }
